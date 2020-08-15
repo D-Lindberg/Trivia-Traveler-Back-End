@@ -1,0 +1,1 @@
+web: gunicorn trivia_traveler.wsgi

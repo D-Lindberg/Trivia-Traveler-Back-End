@@ -1,0 +1,2442 @@
+[
+  {
+    "model": "game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AF/shiny/64.png",
+      "code": "AF",
+      "latitude": 33,
+      "longitude": 65,
+      "name": "Afghanistan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AL/shiny/64.png",
+      "code": "AL",
+      "latitude": 41,
+      "longitude": 20,
+      "name": "Albania"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/DZ/shiny/64.png",
+      "code": "DZ",
+      "latitude": 28,
+      "longitude": 3,
+      "name": "Algeria"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AS/shiny/64.png",
+      "code": "AS",
+      "latitude": -14.3333,
+      "longitude": -170,
+      "name": "American Samoa"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AD/shiny/64.png",
+      "code": "AD",
+      "latitude": 42.5,
+      "longitude": 1.6,
+      "name": "Andorra"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AO/shiny/64.png",
+      "code": "AO",
+      "latitude": -12.5,
+      "longitude": 18.5,
+      "name": "Angola"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AI/shiny/64.png",
+      "code": "AI",
+      "latitude": 18.25,
+      "longitude": -63.1667,
+      "name": "Anguilla"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AQ/shiny/64.png",
+      "code": "AQ",
+      "latitude": -90,
+      "longitude": 0,
+      "name": "Antarctica"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AG/shiny/64.png",
+      "code": "AG",
+      "latitude": 17.05,
+      "longitude": -61.8,
+      "name": "Antigua and Barbuda"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AR/shiny/64.png",
+      "code": "AR",
+      "latitude": -34,
+      "longitude": -64,
+      "name": "Argentina"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AM/shiny/64.png",
+      "code": "AM",
+      "latitude": 40,
+      "longitude": 45,
+      "name": "Armenia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AW/shiny/64.png",
+      "code": "AW",
+      "latitude": 12.5,
+      "longitude": -69.9667,
+      "name": "Aruba"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AU/shiny/64.png",
+      "code": "AU",
+      "latitude": -27,
+      "longitude": 133,
+      "name": "Australia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AT/shiny/64.png",
+      "code": "AT",
+      "latitude": 47.3333,
+      "longitude": 13.3333,
+      "name": "Austria"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AZ/shiny/64.png",
+      "code": "AZ",
+      "latitude": 40.5,
+      "longitude": 47.5,
+      "name": "Azerbaijan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BS/shiny/64.png",
+      "code": "BS",
+      "latitude": 24.25,
+      "longitude": -76,
+      "name": "Bahamas"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BH/shiny/64.png",
+      "code": "BH",
+      "latitude": 26,
+      "longitude": 50.55,
+      "name": "Bahrain"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BD/shiny/64.png",
+      "code": "BD",
+      "latitude": 24,
+      "longitude": 90,
+      "name": "Bangladesh"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BB/shiny/64.png",
+      "code": "BB",
+      "latitude": 13.1667,
+      "longitude": -59.5333,
+      "name": "Barbados"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BY/shiny/64.png",
+      "code": "BY",
+      "latitude": 53,
+      "longitude": 28,
+      "name": "Belarus"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BE/shiny/64.png",
+      "code": "BE",
+      "latitude": 50.8333,
+      "longitude": 4,
+      "name": "Belgium"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BZ/shiny/64.png",
+      "code": "BZ",
+      "latitude": 17.25,
+      "longitude": -88.75,
+      "name": "Belize"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BJ/shiny/64.png",
+      "code": "BJ",
+      "latitude": 9.5,
+      "longitude": 2.25,
+      "name": "Benin"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BM/shiny/64.png",
+      "code": "BM",
+      "latitude": 32.3333,
+      "longitude": -64.75,
+      "name": "Bermuda"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BT/shiny/64.png",
+      "code": "BT",
+      "latitude": 27.5,
+      "longitude": 90.5,
+      "name": "Bhutan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BO/shiny/64.png",
+      "code": "BO",
+      "latitude": -17,
+      "longitude": -65,
+      "name": "Bolivia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BA/shiny/64.png",
+      "code": "BA",
+      "latitude": 44,
+      "longitude": 18,
+      "name": "Bosnia and Herzegovina"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BW/shiny/64.png",
+      "code": "BW",
+      "latitude": -22,
+      "longitude": 24,
+      "name": "Botswana"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BV/shiny/64.png",
+      "code": "BV",
+      "latitude": -54.4333,
+      "longitude": 3.4,
+      "name": "Bouvet Island"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BR/shiny/64.png",
+      "code": "BR",
+      "latitude": -10,
+      "longitude": -55,
+      "name": "Brazil"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/IO/shiny/64.png",
+      "code": "IO",
+      "latitude": -6,
+      "longitude": 71.5,
+      "name": "British Indian Ocean Territory"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BN/shiny/64.png",
+      "code": "BN",
+      "latitude": 4.5,
+      "longitude": 114.6667,
+      "name": "Brunei"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BG/shiny/64.png",
+      "code": "BG",
+      "latitude": 43,
+      "longitude": 25,
+      "name": "Bulgaria"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BF/shiny/64.png",
+      "code": "BF",
+      "latitude": 13,
+      "longitude": -2,
+      "name": "Burkina Faso"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/BI/shiny/64.png",
+      "code": "BI",
+      "latitude": -3.5,
+      "longitude": 30,
+      "name": "Burundi"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KH/shiny/64.png",
+      "code": "KH",
+      "latitude": 13,
+      "longitude": 105,
+      "name": "Cambodia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CM/shiny/64.png",
+      "code": "CM",
+      "latitude": 6,
+      "longitude": 12,
+      "name": "Cameroon"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CA/shiny/64.png",
+      "code": "CA",
+      "latitude": 60,
+      "longitude": -95,
+      "name": "Canada"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CV/shiny/64.png",
+      "code": "CV",
+      "latitude": 16,
+      "longitude": -24,
+      "name": "Cape Verde"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KY/shiny/64.png",
+      "code": "KY",
+      "latitude": 19.5,
+      "longitude": -80.5,
+      "name": "Cayman Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CF/shiny/64.png",
+      "code": "CF",
+      "latitude": 7,
+      "longitude": 21,
+      "name": "Central African Republic"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TD/shiny/64.png",
+      "code": "TD",
+      "latitude": 15,
+      "longitude": 19,
+      "name": "Chad"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CL/shiny/64.png",
+      "code": "CL",
+      "latitude": -30,
+      "longitude": -71,
+      "name": "Chile"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CN/shiny/64.png",
+      "code": "CN",
+      "latitude": 35,
+      "longitude": 105,
+      "name": "China"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CX/shiny/64.png",
+      "code": "CX",
+      "latitude": -10.5,
+      "longitude": 105.6667,
+      "name": "Christmas Island"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CC/shiny/64.png",
+      "code": "CC",
+      "latitude": -12.5,
+      "longitude": 96.8333,
+      "name": "Cocos (Keeling) Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CO/shiny/64.png",
+      "code": "CO",
+      "latitude": 4,
+      "longitude": -72,
+      "name": "Colombia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KM/shiny/64.png",
+      "code": "KM",
+      "latitude": -12.1667,
+      "longitude": 44.25,
+      "name": "Comoros"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CG/shiny/64.png",
+      "code": "CG",
+      "latitude": -1,
+      "longitude": 15,
+      "name": "Congo"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CD/shiny/64.png",
+      "code": "CD",
+      "latitude": 0,
+      "longitude": 25,
+      "name": "Congo, the Democratic Republic of the"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CK/shiny/64.png",
+      "code": "CK",
+      "latitude": -21.2333,
+      "longitude": -159.7667,
+      "name": "Cook Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CR/shiny/64.png",
+      "code": "CR",
+      "latitude": 10,
+      "longitude": -84,
+      "name": "Costa Rica"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CI/shiny/64.png",
+      "code": "CI",
+      "latitude": 8,
+      "longitude": -5,
+      "name": "Ivory Coast"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/HR/shiny/64.png",
+      "code": "HR",
+      "latitude": 45.1667,
+      "longitude": 15.5,
+      "name": "Croatia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CU/shiny/64.png",
+      "code": "CU",
+      "latitude": 21.5,
+      "longitude": -80,
+      "name": "Cuba"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CY/shiny/64.png",
+      "code": "CY",
+      "latitude": 35,
+      "longitude": 33,
+      "name": "Cyprus"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CZ/shiny/64.png",
+      "code": "CZ",
+      "latitude": 49.75,
+      "longitude": 15.5,
+      "name": "Czech Republic"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/DK/shiny/64.png",
+      "code": "DK",
+      "latitude": 56,
+      "longitude": 10,
+      "name": "Denmark"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/DJ/shiny/64.png",
+      "code": "DJ",
+      "latitude": 11.5,
+      "longitude": 43,
+      "name": "Djibouti"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/DM/shiny/64.png",
+      "code": "DM",
+      "latitude": 15.4167,
+      "longitude": -61.3333,
+      "name": "Dominica"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/DO/shiny/64.png",
+      "code": "DO",
+      "latitude": 19,
+      "longitude": -70.6667,
+      "name": "Dominican Republic"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/EC/shiny/64.png",
+      "code": "EC",
+      "latitude": -2,
+      "longitude": -77.5,
+      "name": "Ecuador"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/EG/shiny/64.png",
+      "code": "EG",
+      "latitude": 27,
+      "longitude": 30,
+      "name": "Egypt"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SV/shiny/64.png",
+      "code": "SV",
+      "latitude": 13.8333,
+      "longitude": -88.9167,
+      "name": "El Salvador"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GQ/shiny/64.png",
+      "code": "GQ",
+      "latitude": 2,
+      "longitude": 10,
+      "name": "Equatorial Guinea"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/ER/shiny/64.png",
+      "code": "ER",
+      "latitude": 15,
+      "longitude": 39,
+      "name": "Eritrea"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/EE/shiny/64.png",
+      "code": "EE",
+      "latitude": 59,
+      "longitude": 26,
+      "name": "Estonia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/ET/shiny/64.png",
+      "code": "ET",
+      "latitude": 8,
+      "longitude": 38,
+      "name": "Ethiopia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/FK/shiny/64.png",
+      "code": "FK",
+      "latitude": -51.75,
+      "longitude": -59,
+      "name": "Falkland Islands (Malvinas)"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/FO/shiny/64.png",
+      "code": "FO",
+      "latitude": 62,
+      "longitude": -7,
+      "name": "Faroe Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/FJ/shiny/64.png",
+      "code": "FJ",
+      "latitude": -18,
+      "longitude": 175,
+      "name": "Fiji"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/FI/shiny/64.png",
+      "code": "FI",
+      "latitude": 64,
+      "longitude": 26,
+      "name": "Finland"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/FR/shiny/64.png",
+      "code": "FR",
+      "latitude": 46,
+      "longitude": 2,
+      "name": "France"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GF/shiny/64.png",
+      "code": "GF",
+      "latitude": 4,
+      "longitude": -53,
+      "name": "French Guiana"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PF/shiny/64.png",
+      "code": "PF",
+      "latitude": -15,
+      "longitude": -140,
+      "name": "French Polynesia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TF/shiny/64.png",
+      "code": "TF",
+      "latitude": -43,
+      "longitude": 67,
+      "name": "French Southern Territories"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GA/shiny/64.png",
+      "code": "GA",
+      "latitude": -1,
+      "longitude": 11.75,
+      "name": "Gabon"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GM/shiny/64.png",
+      "code": "GM",
+      "latitude": 13.4667,
+      "longitude": -16.5667,
+      "name": "Gambia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GE/shiny/64.png",
+      "code": "GE",
+      "latitude": 42,
+      "longitude": 43.5,
+      "name": "Georgia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/DE/shiny/64.png",
+      "code": "DE",
+      "latitude": 51,
+      "longitude": 9,
+      "name": "Germany"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GH/shiny/64.png",
+      "code": "GH",
+      "latitude": 8,
+      "longitude": -2,
+      "name": "Ghana"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GI/shiny/64.png",
+      "code": "GI",
+      "latitude": 36.1833,
+      "longitude": -5.3667,
+      "name": "Gibraltar"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GR/shiny/64.png",
+      "code": "GR",
+      "latitude": 39,
+      "longitude": 22,
+      "name": "Greece"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GL/shiny/64.png",
+      "code": "GL",
+      "latitude": 72,
+      "longitude": -40,
+      "name": "Greenland"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GD/shiny/64.png",
+      "code": "GD",
+      "latitude": 12.1167,
+      "longitude": -61.6667,
+      "name": "Grenada"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GP/shiny/64.png",
+      "code": "GP",
+      "latitude": 16.25,
+      "longitude": -61.5833,
+      "name": "Guadeloupe"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GU/shiny/64.png",
+      "code": "GU",
+      "latitude": 13.4667,
+      "longitude": 144.7833,
+      "name": "Guam"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GT/shiny/64.png",
+      "code": "GT",
+      "latitude": 15.5,
+      "longitude": -90.25,
+      "name": "Guatemala"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GG/shiny/64.png",
+      "code": "GG",
+      "latitude": 49.5,
+      "longitude": -2.56,
+      "name": "Guernsey"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GN/shiny/64.png",
+      "code": "GN",
+      "latitude": 11,
+      "longitude": -10,
+      "name": "Guinea"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GW/shiny/64.png",
+      "code": "GW",
+      "latitude": 12,
+      "longitude": -15,
+      "name": "Guinea-Bissau"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GY/shiny/64.png",
+      "code": "GY",
+      "latitude": 5,
+      "longitude": -59,
+      "name": "Guyana"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/HT/shiny/64.png",
+      "code": "HT",
+      "latitude": 19,
+      "longitude": -72.4167,
+      "name": "Haiti"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/HM/shiny/64.png",
+      "code": "HM",
+      "latitude": -53.1,
+      "longitude": 72.5167,
+      "name": "Heard Island and McDonald Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/VA/shiny/64.png",
+      "code": "VA",
+      "latitude": 41.9,
+      "longitude": 12.45,
+      "name": "Vatican City State"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/HN/shiny/64.png",
+      "code": "HN",
+      "latitude": 15,
+      "longitude": -86.5,
+      "name": "Honduras"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/HK/shiny/64.png",
+      "code": "HK",
+      "latitude": 22.25,
+      "longitude": 114.1667,
+      "name": "Hong Kong"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/HU/shiny/64.png",
+      "code": "HU",
+      "latitude": 47,
+      "longitude": 20,
+      "name": "Hungary"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/IS/shiny/64.png",
+      "code": "IS",
+      "latitude": 65,
+      "longitude": -18,
+      "name": "Iceland"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/IN/shiny/64.png",
+      "code": "IN",
+      "latitude": 20,
+      "longitude": 77,
+      "name": "India"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/ID/shiny/64.png",
+      "code": "ID",
+      "latitude": -5,
+      "longitude": 120,
+      "name": "Indonesia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/IR/shiny/64.png",
+      "code": "IR",
+      "latitude": 32,
+      "longitude": 53,
+      "name": "Iran, Islamic Republic of"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/IQ/shiny/64.png",
+      "code": "IQ",
+      "latitude": 33,
+      "longitude": 44,
+      "name": "Iraq"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/IE/shiny/64.png",
+      "code": "IE",
+      "latitude": 53,
+      "longitude": -8,
+      "name": "Ireland"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/IM/shiny/64.png",
+      "code": "IM",
+      "latitude": 54.23,
+      "longitude": -4.55,
+      "name": "Isle of Man"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/IL/shiny/64.png",
+      "code": "IL",
+      "latitude": 31.5,
+      "longitude": 34.75,
+      "name": "Israel"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/IT/shiny/64.png",
+      "code": "IT",
+      "latitude": 42.8333,
+      "longitude": 12.8333,
+      "name": "Italy"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/JM/shiny/64.png",
+      "code": "JM",
+      "latitude": 18.25,
+      "longitude": -77.5,
+      "name": "Jamaica"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/JP/shiny/64.png",
+      "code": "JP",
+      "latitude": 36,
+      "longitude": 138,
+      "name": "Japan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/JE/shiny/64.png",
+      "code": "JE",
+      "latitude": 49.21,
+      "longitude": -2.13,
+      "name": "Jersey"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/JO/shiny/64.png",
+      "code": "JO",
+      "latitude": 31,
+      "longitude": 36,
+      "name": "Jordan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KZ/shiny/64.png",
+      "code": "KZ",
+      "latitude": 48,
+      "longitude": 68,
+      "name": "Kazakhstan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KE/shiny/64.png",
+      "code": "KE",
+      "latitude": 1,
+      "longitude": 38,
+      "name": "Kenya"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KI/shiny/64.png",
+      "code": "KI",
+      "latitude": 1.4167,
+      "longitude": 173,
+      "name": "Kiribati"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KP/shiny/64.png",
+      "code": "KP",
+      "latitude": 40,
+      "longitude": 127,
+      "name": "Korea, Democratic People's Republic of"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KR/shiny/64.png",
+      "code": "KR",
+      "latitude": 37,
+      "longitude": 127.5,
+      "name": "South Korea"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KW/shiny/64.png",
+      "code": "KW",
+      "latitude": 29.3375,
+      "longitude": 47.6581,
+      "name": "Kuwait"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KG/shiny/64.png",
+      "code": "KG",
+      "latitude": 41,
+      "longitude": 75,
+      "name": "Kyrgyzstan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LA/shiny/64.png",
+      "code": "LA",
+      "latitude": 18,
+      "longitude": 105,
+      "name": "Lao People's Democratic Republic"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LV/shiny/64.png",
+      "code": "LV",
+      "latitude": 57,
+      "longitude": 25,
+      "name": "Latvia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LB/shiny/64.png",
+      "code": "LB",
+      "latitude": 33.8333,
+      "longitude": 35.8333,
+      "name": "Lebanon"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LS/shiny/64.png",
+      "code": "LS",
+      "latitude": -29.5,
+      "longitude": 28.5,
+      "name": "Lesotho"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LR/shiny/64.png",
+      "code": "LR",
+      "latitude": 6.5,
+      "longitude": -9.5,
+      "name": "Liberia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LY/shiny/64.png",
+      "code": "LY",
+      "latitude": 25,
+      "longitude": 17,
+      "name": "Libya"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LI/shiny/64.png",
+      "code": "LI",
+      "latitude": 47.1667,
+      "longitude": 9.5333,
+      "name": "Liechtenstein"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LT/shiny/64.png",
+      "code": "LT",
+      "latitude": 56,
+      "longitude": 24,
+      "name": "Lithuania"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LU/shiny/64.png",
+      "code": "LU",
+      "latitude": 49.75,
+      "longitude": 6.1667,
+      "name": "Luxembourg"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MO/shiny/64.png",
+      "code": "MO",
+      "latitude": 22.1667,
+      "longitude": 113.55,
+      "name": "Macao"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MK/shiny/64.png",
+      "code": "MK",
+      "latitude": 41.8333,
+      "longitude": 22,
+      "name": "Macedonia, the former Yugoslav Republic of"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MG/shiny/64.png",
+      "code": "MG",
+      "latitude": -20,
+      "longitude": 47,
+      "name": "Madagascar"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MW/shiny/64.png",
+      "code": "MW",
+      "latitude": -13.5,
+      "longitude": 34,
+      "name": "Malawi"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MY/shiny/64.png",
+      "code": "MY",
+      "latitude": 2.5,
+      "longitude": 112.5,
+      "name": "Malaysia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MV/shiny/64.png",
+      "code": "MV",
+      "latitude": 3.25,
+      "longitude": 73,
+      "name": "Maldives"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/ML/shiny/64.png",
+      "code": "ML",
+      "latitude": 17,
+      "longitude": -4,
+      "name": "Mali"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MT/shiny/64.png",
+      "code": "MT",
+      "latitude": 35.8333,
+      "longitude": 14.5833,
+      "name": "Malta"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MH/shiny/64.png",
+      "code": "MH",
+      "latitude": 9,
+      "longitude": 168,
+      "name": "Marshall Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MQ/shiny/64.png",
+      "code": "MQ",
+      "latitude": 14.6667,
+      "longitude": -61,
+      "name": "Martinique"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MR/shiny/64.png",
+      "code": "MR",
+      "latitude": 20,
+      "longitude": -12,
+      "name": "Mauritania"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MU/shiny/64.png",
+      "code": "MU",
+      "latitude": -20.2833,
+      "longitude": 57.55,
+      "name": "Mauritius"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/YT/shiny/64.png",
+      "code": "YT",
+      "latitude": -12.8333,
+      "longitude": 45.1667,
+      "name": "Mayotte"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MX/shiny/64.png",
+      "code": "MX",
+      "latitude": 23,
+      "longitude": -102,
+      "name": "Mexico"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/FM/shiny/64.png",
+      "code": "FM",
+      "latitude": 6.9167,
+      "longitude": 158.25,
+      "name": "Micronesia, Federated States of"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MD/shiny/64.png",
+      "code": "MD",
+      "latitude": 47,
+      "longitude": 29,
+      "name": "Moldova, Republic of"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MC/shiny/64.png",
+      "code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4,
+      "name": "Monaco"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MN/shiny/64.png",
+      "code": "MN",
+      "latitude": 46,
+      "longitude": 105,
+      "name": "Mongolia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/ME/shiny/64.png",
+      "code": "ME",
+      "latitude": 42,
+      "longitude": 19,
+      "name": "Montenegro"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MS/shiny/64.png",
+      "code": "MS",
+      "latitude": 16.75,
+      "longitude": -62.2,
+      "name": "Montserrat"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MA/shiny/64.png",
+      "code": "MA",
+      "latitude": 32,
+      "longitude": -5,
+      "name": "Morocco"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MZ/shiny/64.png",
+      "code": "MZ",
+      "latitude": -18.25,
+      "longitude": 35,
+      "name": "Mozambique"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MM/shiny/64.png",
+      "code": "MM",
+      "latitude": 22,
+      "longitude": 98,
+      "name": "Burma"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NA/shiny/64.png",
+      "code": "NA",
+      "latitude": -22,
+      "longitude": 17,
+      "name": "Namibia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NR/shiny/64.png",
+      "code": "NR",
+      "latitude": -0.5333,
+      "longitude": 166.9167,
+      "name": "Nauru"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NP/shiny/64.png",
+      "code": "NP",
+      "latitude": 28,
+      "longitude": 84,
+      "name": "Nepal"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NL/shiny/64.png",
+      "code": "NL",
+      "latitude": 52.5,
+      "longitude": 5.75,
+      "name": "Netherlands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AN/shiny/64.png",
+      "code": "AN",
+      "latitude": 12.25,
+      "longitude": -68.75,
+      "name": "Netherlands Antilles"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NC/shiny/64.png",
+      "code": "NC",
+      "latitude": -21.5,
+      "longitude": 165.5,
+      "name": "New Caledonia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NZ/shiny/64.png",
+      "code": "NZ",
+      "latitude": -41,
+      "longitude": 174,
+      "name": "New Zealand"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NI/shiny/64.png",
+      "code": "NI",
+      "latitude": 13,
+      "longitude": -85,
+      "name": "Nicaragua"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NE/shiny/64.png",
+      "code": "NE",
+      "latitude": 16,
+      "longitude": 8,
+      "name": "Niger"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NG/shiny/64.png",
+      "code": "NG",
+      "latitude": 10,
+      "longitude": 8,
+      "name": "Nigeria"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NU/shiny/64.png",
+      "code": "NU",
+      "latitude": -19.0333,
+      "longitude": -169.8667,
+      "name": "Niue"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NF/shiny/64.png",
+      "code": "NF",
+      "latitude": -29.0333,
+      "longitude": 167.95,
+      "name": "Norfolk Island"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/MP/shiny/64.png",
+      "code": "MP",
+      "latitude": 15.2,
+      "longitude": 145.75,
+      "name": "Northern Mariana Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/NO/shiny/64.png",
+      "code": "NO",
+      "latitude": 62,
+      "longitude": 10,
+      "name": "Norway"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/OM/shiny/64.png",
+      "code": "OM",
+      "latitude": 21,
+      "longitude": 57,
+      "name": "Oman"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PK/shiny/64.png",
+      "code": "PK",
+      "latitude": 30,
+      "longitude": 70,
+      "name": "Pakistan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PW/shiny/64.png",
+      "code": "PW",
+      "latitude": 7.5,
+      "longitude": 134.5,
+      "name": "Palau"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PS/shiny/64.png",
+      "code": "PS",
+      "latitude": 32,
+      "longitude": 35.25,
+      "name": "Palestinian Territory, Occupied"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PA/shiny/64.png",
+      "code": "PA",
+      "latitude": 9,
+      "longitude": -80,
+      "name": "Panama"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PG/shiny/64.png",
+      "code": "PG",
+      "latitude": -6,
+      "longitude": 147,
+      "name": "Papua New Guinea"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PY/shiny/64.png",
+      "code": "PY",
+      "latitude": -23,
+      "longitude": -58,
+      "name": "Paraguay"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PE/shiny/64.png",
+      "code": "PE",
+      "latitude": -10,
+      "longitude": -76,
+      "name": "Peru"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PH/shiny/64.png",
+      "code": "PH",
+      "latitude": 13,
+      "longitude": 122,
+      "name": "Philippines"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PN/shiny/64.png",
+      "code": "PN",
+      "latitude": -24.7,
+      "longitude": -127.4,
+      "name": "Pitcairn"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PL/shiny/64.png",
+      "code": "PL",
+      "latitude": 52,
+      "longitude": 20,
+      "name": "Poland"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PT/shiny/64.png",
+      "code": "PT",
+      "latitude": 39.5,
+      "longitude": -8,
+      "name": "Portugal"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PR/shiny/64.png",
+      "code": "PR",
+      "latitude": 18.25,
+      "longitude": -66.5,
+      "name": "Puerto Rico"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/QA/shiny/64.png",
+      "code": "QA",
+      "latitude": 25.5,
+      "longitude": 51.25,
+      "name": "Qatar"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/RE/shiny/64.png",
+      "code": "RE",
+      "latitude": -21.1,
+      "longitude": 55.6,
+      "name": "Réunion"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/RO/shiny/64.png",
+      "code": "RO",
+      "latitude": 46,
+      "longitude": 25,
+      "name": "Romania"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/RU/shiny/64.png",
+      "code": "RU",
+      "latitude": 60,
+      "longitude": 100,
+      "name": "Russia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/RW/shiny/64.png",
+      "code": "RW",
+      "latitude": -2,
+      "longitude": 30,
+      "name": "Rwanda"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SH/shiny/64.png",
+      "code": "SH",
+      "latitude": -15.9333,
+      "longitude": -5.7,
+      "name": "Saint Helena, Ascension and Tristan da Cunha"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/KN/shiny/64.png",
+      "code": "KN",
+      "latitude": 17.3333,
+      "longitude": -62.75,
+      "name": "Saint Kitts and Nevis"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LC/shiny/64.png",
+      "code": "LC",
+      "latitude": 13.8833,
+      "longitude": -61.1333,
+      "name": "Saint Lucia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/PM/shiny/64.png",
+      "code": "PM",
+      "latitude": 46.8333,
+      "longitude": -56.3333,
+      "name": "Saint Pierre and Miquelon"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/VC/shiny/64.png",
+      "code": "VC",
+      "latitude": 13.25,
+      "longitude": -61.2,
+      "name": "Saint Vincent & the Grenadines"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/WS/shiny/64.png",
+      "code": "WS",
+      "latitude": -13.5833,
+      "longitude": -172.3333,
+      "name": "Samoa"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SM/shiny/64.png",
+      "code": "SM",
+      "latitude": 43.7667,
+      "longitude": 12.4167,
+      "name": "San Marino"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/ST/shiny/64.png",
+      "code": "ST",
+      "latitude": 1,
+      "longitude": 7,
+      "name": "Sao Tome and Principe"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SA/shiny/64.png",
+      "code": "SA",
+      "latitude": 25,
+      "longitude": 45,
+      "name": "Saudi Arabia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SN/shiny/64.png",
+      "code": "SN",
+      "latitude": 14,
+      "longitude": -14,
+      "name": "Senegal"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/RS/shiny/64.png",
+      "code": "RS",
+      "latitude": 44,
+      "longitude": 21,
+      "name": "Serbia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SC/shiny/64.png",
+      "code": "SC",
+      "latitude": -4.5833,
+      "longitude": 55.6667,
+      "name": "Seychelles"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SL/shiny/64.png",
+      "code": "SL",
+      "latitude": 8.5,
+      "longitude": -11.5,
+      "name": "Sierra Leone"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SG/shiny/64.png",
+      "code": "SG",
+      "latitude": 1.3667,
+      "longitude": 103.8,
+      "name": "Singapore"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SK/shiny/64.png",
+      "code": "SK",
+      "latitude": 48.6667,
+      "longitude": 19.5,
+      "name": "Slovakia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SI/shiny/64.png",
+      "code": "SI",
+      "latitude": 46,
+      "longitude": 15,
+      "name": "Slovenia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SB/shiny/64.png",
+      "code": "SB",
+      "latitude": -8,
+      "longitude": 159,
+      "name": "Solomon Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SO/shiny/64.png",
+      "code": "SO",
+      "latitude": 10,
+      "longitude": 49,
+      "name": "Somalia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/ZA/shiny/64.png",
+      "code": "ZA",
+      "latitude": -29,
+      "longitude": 24,
+      "name": "South Africa"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GS/shiny/64.png",
+      "code": "GS",
+      "latitude": -54.5,
+      "longitude": -37,
+      "name": "South Georgia and the South Sandwich Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SS/shiny/64.png",
+      "code": "SS",
+      "latitude": 8,
+      "longitude": 30,
+      "name": "South Sudan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/ES/shiny/64.png",
+      "code": "ES",
+      "latitude": 40,
+      "longitude": -4,
+      "name": "Spain"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/LK/shiny/64.png",
+      "code": "LK",
+      "latitude": 7,
+      "longitude": 81,
+      "name": "Sri Lanka"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SD/shiny/64.png",
+      "code": "SD",
+      "latitude": 15,
+      "longitude": 30,
+      "name": "Sudan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SR/shiny/64.png",
+      "code": "SR",
+      "latitude": 4,
+      "longitude": -56,
+      "name": "Suriname"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SJ/shiny/64.png",
+      "code": "SJ",
+      "latitude": 78,
+      "longitude": 20,
+      "name": "Svalbard and Jan Mayen"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SZ/shiny/64.png",
+      "code": "SZ",
+      "latitude": -26.5,
+      "longitude": 31.5,
+      "name": "Swaziland"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SE/shiny/64.png",
+      "code": "SE",
+      "latitude": 62,
+      "longitude": 15,
+      "name": "Sweden"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/CH/shiny/64.png",
+      "code": "CH",
+      "latitude": 47,
+      "longitude": 8,
+      "name": "Switzerland"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/SY/shiny/64.png",
+      "code": "SY",
+      "latitude": 35,
+      "longitude": 38,
+      "name": "Syrian Arab Republic"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TW/shiny/64.png",
+      "code": "TW",
+      "latitude": 23.5,
+      "longitude": 121,
+      "name": "Taiwan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TJ/shiny/64.png",
+      "code": "TJ",
+      "latitude": 39,
+      "longitude": 71,
+      "name": "Tajikistan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TZ/shiny/64.png",
+      "code": "TZ",
+      "latitude": -6,
+      "longitude": 35,
+      "name": "Tanzania, United Republic of"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TH/shiny/64.png",
+      "code": "TH",
+      "latitude": 15,
+      "longitude": 100,
+      "name": "Thailand"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TL/shiny/64.png",
+      "code": "TL",
+      "latitude": -8.55,
+      "longitude": 125.5167,
+      "name": "Timor-Leste"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TG/shiny/64.png",
+      "code": "TG",
+      "latitude": 8,
+      "longitude": 1.1667,
+      "name": "Togo"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TK/shiny/64.png",
+      "code": "TK",
+      "latitude": -9,
+      "longitude": -172,
+      "name": "Tokelau"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TO/shiny/64.png",
+      "code": "TO",
+      "latitude": -20,
+      "longitude": -175,
+      "name": "Tonga"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TT/shiny/64.png",
+      "code": "TT",
+      "latitude": 11,
+      "longitude": -61,
+      "name": "Trinidad and Tobago"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TN/shiny/64.png",
+      "code": "TN",
+      "latitude": 34,
+      "longitude": 9,
+      "name": "Tunisia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TR/shiny/64.png",
+      "code": "TR",
+      "latitude": 39,
+      "longitude": 35,
+      "name": "Turkey"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TM/shiny/64.png",
+      "code": "TM",
+      "latitude": 40,
+      "longitude": 60,
+      "name": "Turkmenistan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TC/shiny/64.png",
+      "code": "TC",
+      "latitude": 21.75,
+      "longitude": -71.5833,
+      "name": "Turks and Caicos Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/TV/shiny/64.png",
+      "code": "TV",
+      "latitude": -8,
+      "longitude": 178,
+      "name": "Tuvalu"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/UG/shiny/64.png",
+      "code": "UG",
+      "latitude": 1,
+      "longitude": 32,
+      "name": "Uganda"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/UA/shiny/64.png",
+      "code": "UA",
+      "latitude": 49,
+      "longitude": 32,
+      "name": "Ukraine"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/AE/shiny/64.png",
+      "code": "AE",
+      "latitude": 24,
+      "longitude": 54,
+      "name": "United Arab Emirates"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/GB/shiny/64.png",
+      "code": "GB",
+      "latitude": 54,
+      "longitude": -2,
+      "name": "United Kingdom"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/US/shiny/64.png",
+      "code": "US",
+      "latitude": 38,
+      "longitude": -97,
+      "name": "United States"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/UM/shiny/64.png",
+      "code": "UM",
+      "latitude": 19.2833,
+      "longitude": 166.6,
+      "name": "United States Minor Outlying Islands"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/UY/shiny/64.png",
+      "code": "UY",
+      "latitude": -33,
+      "longitude": -56,
+      "name": "Uruguay"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/UZ/shiny/64.png",
+      "code": "UZ",
+      "latitude": 41,
+      "longitude": 64,
+      "name": "Uzbekistan"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/VU/shiny/64.png",
+      "code": "VU",
+      "latitude": -16,
+      "longitude": 167,
+      "name": "Vanuatu"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/VE/shiny/64.png",
+      "code": "VE",
+      "latitude": 8,
+      "longitude": -66,
+      "name": "Venezuela"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/VN/shiny/64.png",
+      "code": "VN",
+      "latitude": 16,
+      "longitude": 106,
+      "name": "Vietnam"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/VG/shiny/64.png",
+      "code": "VG",
+      "latitude": 18.5,
+      "longitude": -64.5,
+      "name": "Virgin Islands, British"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/VI/shiny/64.png",
+      "code": "VI",
+      "latitude": 18.3333,
+      "longitude": -64.8333,
+      "name": "Virgin Islands, U.S."
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/WF/shiny/64.png",
+      "code": "WF",
+      "latitude": -13.3,
+      "longitude": -176.2,
+      "name": "Wallis and Futuna"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/EH/shiny/64.png",
+      "code": "EH",
+      "latitude": 24.5,
+      "longitude": -13,
+      "name": "Western Sahara"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/YE/shiny/64.png",
+      "code": "YE",
+      "latitude": 15,
+      "longitude": 48,
+      "name": "Yemen"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/ZM/shiny/64.png",
+      "code": "ZM",
+      "latitude": -15,
+      "longitude": 30,
+      "name": "Zambia"
+    }
+  },
+  {
+    "model":"game.country",
+    "fields":{
+      "flag_url": "https://www.countryflags.io/ZW/shiny/64.png",
+      "code": "ZW",
+      "latitude": -20,
+      "longitude": 30,
+      "name": "Zimbabwe"
+    }
+  }
+]
