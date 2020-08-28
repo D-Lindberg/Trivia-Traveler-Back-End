@@ -4,6 +4,7 @@ from .views import (
     LogoutAndBlacklistRefreshTokenForUserView,
     ObtainTokenPairWithColorView, countries_visited, 
     inventory_specifics,
+    retrieve_game_stats,
     User_flight_history,
     CustomUserCreate,
     inventory_delete,
@@ -76,7 +77,9 @@ urlpatterns = [
     ])),
 
     path('boookFlight/<str:username>/', book_a_flight),
-    path('countriesVisited/<str:username>/', countries_visited)
+    path('countriesVisited/<str:username>/', countries_visited),
+
+    path('GameStats', retrieve_game_stats)
 
 ]
 
