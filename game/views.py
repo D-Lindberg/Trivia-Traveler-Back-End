@@ -14,7 +14,7 @@ from rest_framework.views import APIView
 from .forms import InventoryForm, ItemForm, UserFlightsForm
 from .models import Airport, Country, Inventory, UserFlights, Flight, Item, CustomUser
 from .serializers import (
-    CountrySerializer, MyTokenObtainPairSerializer,
+    CountrySerializer, GameStatsSerializer, MyTokenObtainPairSerializer,
     CustomUserSerializer,
     AirportSerializer,
     FlightSerializer,
@@ -228,5 +228,22 @@ def inventory_delete(request, username, inventory_id):  #inventory_delete
         inventory.delete()
         return JsonResponse(data={'status':'success'}, status=200)
     return HttpResponseNotAllowed(['POST'])
+
+@api_view(('GET',))
+@renderer_classes((JSONRenderer, TemplateHTMLRenderer))
+def retrieve_game_stats(request):
+    user = get_object_or_404(CustomUser, pk=request.user.pk)
+    ctry = Country
+    departing = set(ctry.objects.filter(airports__departing__manifest__user=user))
+    arriving = set(ctry.objects.filter(airports__arriving__manifest__user=user))
+    all_countries = departing.union(arriving)
+    countries_visited_count=len(all_countries)
+    stats_obj = {}
+    stats_obj['user'] = user
+    stats_obj['countries_visited_count'] = countries_visited_count
+    stats_obj['countries_visited'] = all_countries
+    serialized_result = GameStatsSerializer(stats_obj, many=False).data
+    return Response(serialized_result)
+    
 
 
